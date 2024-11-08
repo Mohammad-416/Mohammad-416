@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](https://github.com/Mohammad-416/Mohammad-416/main/banner.png)
+![Banner](https://github.com/Mohammad-416/Mohammad-416/blob/main/banner.png)
 <!--
 **Mohammad-416/Mohammad-416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
