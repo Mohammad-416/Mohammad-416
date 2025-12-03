@@ -20,17 +20,4 @@ Right now I'm mostly focused on improving as a developer and writing cleaner, mo
 
 I like real-time communication, parallel processing, dev tools, and anything that makes workflows faster or simpler.
 
-### Some of my projects
-
-**URTC** – real-time collaboration server for Unity/Godot projects
-
-**ReWear** – clothing exchange platform built with React, Django, and PostgreSQL
-
-**cron-scheduler (Go)** – interval scheduler that resumes where it left off
-
-**Verbal Analyst** – chatbot for analysing financial data and generating reports
-
-**Lunar PSR Model** – crater detection + enhancement using YOLOv8 and RetinexFormer
-
-
 ![Banner](https://github.com/Mohammad-416/Mohammad-416/blob/main/banner.png)
